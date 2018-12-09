@@ -1,3 +1,4 @@
+
 # Language Modelling
 
 In this repo will we focus on language modelling and try to generate a paragraph of text from the domain of your choise!
@@ -15,6 +16,4 @@ Please add links to the dataset you decide to use below
  - INSERT LINK TO DATASET HERE
 
 ## Environment
-I will add a env.yaml file here 
-
-
+I will add a `env.yaml` file here some day
